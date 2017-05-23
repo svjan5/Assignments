@@ -1,0 +1,912 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.8)  6 FEB 2017 18:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**aip_a1.tex
+(./aip_a1.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+\@temptokenb=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count96
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen109
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks18
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks19
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks20
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count109
+Package caption Info: listings package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+\c@homeworkProblemCounter=\count110
+ (./aip_a1.aux)
+\openout1 = `aip_a1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 107.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen126
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count117
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/thresh
+_grad.png, id=9, 790.955pt x 565.11125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/t
+hresh_grad.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/th
+resh_grad.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/thresh_grad.png used on input line 152.
+(pdftex.def)             Requested size: 398.33858pt x 284.59856pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/thresh
+_log.png, id=10, 941.5175pt x 649.42625pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/t
+hresh_log.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/th
+resh_log.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/thresh_log.png used on input line 158.
+(pdftex.def)             Requested size: 398.33858pt x 274.75887pt.
+ [2] [3 </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q
+1/thresh_grad.png> </home/shikhar/Documents/PycharmProjects/Assignment-1/Soluti
+on_Report/q1/thresh_log.png>]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/noise_
+1.png, id=26, 1112.155pt x 429.605pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_1.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/no
+ise_1.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/noise_1.png used on input line 176.
+(pdftex.def)             Requested size: 455.24408pt x 175.85075pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/noise_
+2.png, id=27, 1130.2225pt x 435.6275pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_2.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/no
+ise_2.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/noise_2.png used on input line 177.
+(pdftex.def)             Requested size: 455.24408pt x 175.46432pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/noise_
+3.png, id=28, 1124.2pt x 440.64626pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_3.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/no
+ise_3.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/noise_3.png used on input line 178.
+(pdftex.def)             Requested size: 455.24408pt x 178.44058pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/noise_
+4.png, id=29, 1121.18875pt x 430.60875pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_4.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/no
+ise_4.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/noise_4.png used on input line 184.
+(pdftex.def)             Requested size: 455.24408pt x 174.84238pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/noise_
+5.png, id=30, 1122.1925pt x 442.65375pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_5.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/no
+ise_5.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/noise_5.png used on input line 185.
+(pdftex.def)             Requested size: 455.24408pt x 179.57097pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/noise_
+6.png, id=31, 1131.22626pt x 439.6425pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_6.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/no
+ise_6.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q1/noise_6.png used on input line 186.
+(pdftex.def)             Requested size: 455.24408pt x 176.92722pt.
+ [4
+
+] [5 </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q1/n
+oise_1.png> </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Repo
+rt/q1/noise_2.png> </home/shikhar/Documents/PycharmProjects/Assignment-1/Soluti
+on_Report/q1/noise_3.png>] [6 </home/shikhar/Documents/PycharmProjects/Assignme
+nt-1/Solution_Report/q1/noise_4.png> </home/shikhar/Documents/PycharmProjects/A
+ssignment-1/Solution_Report/q1/noise_5.png> </home/shikhar/Documents/PycharmPro
+jects/Assignment-1/Solution_Report/q1/noise_6.png>] [7
+
+] [8
+
+]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/img_kp
+2.png, id=48, 678.535pt x 632.3625pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/i
+mg_kp2.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/im
+g_kp2.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/img_kp2.png used on input line 251.
+(pdftex.def)             Requested size: 398.33858pt x 371.22838pt.
+ [9
+
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/img_k
+p2.png>]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/img_kp
+1.png, id=52, 891.33pt x 627.34375pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/i
+mg_kp1.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/im
+g_kp1.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/img_kp1.png used on input line 272.
+(pdftex.def)             Requested size: 455.24408pt x 320.41013pt.
+ [10
+
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/img_k
+p1.png>]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match2
+_1.png, id=56, 963.6pt x 271.0125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch2_1.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch2_1.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match2_1.png used on input line 304.
+(pdftex.def)             Requested size: 385.43317pt x 108.40306pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match2
+_2.png, id=57, 963.6pt x 271.0125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch2_2.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch2_2.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match2_2.png used on input line 309.
+(pdftex.def)             Requested size: 385.43317pt x 108.40306pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match2
+_3.png, id=58, 963.6pt x 271.0125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch2_3.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch2_3.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match2_3.png used on input line 314.
+(pdftex.def)             Requested size: 385.43317pt x 108.40306pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match2
+_4.png, id=59, 963.6pt x 271.0125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch2_4.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch2_4.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match2_4.png used on input line 319.
+(pdftex.def)             Requested size: 385.43317pt x 108.40306pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match2
+_5.png, id=60, 963.6pt x 271.0125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch2_5.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch2_5.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match2_5.png used on input line 324.
+(pdftex.def)             Requested size: 385.43317pt x 108.40306pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11
+
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match
+2_1.png (PNG copy)> </home/shikhar/Documents/PycharmProjects/Assignment-1/Solut
+ion_Report/q2/match2_2.png (PNG copy)>] [12 </home/shikhar/Documents/PycharmPro
+jects/Assignment-1/Solution_Report/q2/match2_3.png (PNG copy)> </home/shikhar/D
+ocuments/PycharmProjects/Assignment-1/Solution_Report/q2/match2_4.png (PNG copy
+)> </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/mat
+ch2_5.png (PNG copy)>]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match1
+_1.png, id=67, 513.92pt x 256.96pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch1_1.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch1_1.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match1_1.png used on input line 344.
+(pdftex.def)             Requested size: 308.35437pt x 154.17719pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match1
+_2.png, id=68, 513.92pt x 256.96pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch1_2.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch1_2.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match1_2.png used on input line 349.
+(pdftex.def)             Requested size: 308.35437pt x 154.17719pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match1
+_3.png, id=69, 513.92pt x 256.96pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch1_3.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch1_3.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match1_3.png used on input line 354.
+(pdftex.def)             Requested size: 308.35437pt x 154.17719pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match1
+_4.png, id=70, 513.92pt x 256.96pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch1_4.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch1_4.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match1_4.png used on input line 359.
+(pdftex.def)             Requested size: 308.35437pt x 154.17719pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match1
+_5.png, id=71, 513.92pt x 256.96pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/m
+atch1_5.png Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/ma
+tch1_5.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/S
+olution_Report/q2/match1_5.png used on input line 364.
+(pdftex.def)             Requested size: 308.35437pt x 154.17719pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13
+
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/match
+1_1.png (PNG copy)> </home/shikhar/Documents/PycharmProjects/Assignment-1/Solut
+ion_Report/q2/match1_2.png (PNG copy)>] [14 </home/shikhar/Documents/PycharmPro
+jects/Assignment-1/Solution_Report/q2/match1_3.png (PNG copy)> </home/shikhar/D
+ocuments/PycharmProjects/Assignment-1/Solution_Report/q2/match1_4.png (PNG copy
+)> </home/shikhar/Documents/PycharmProjects/Assignment-1/Solution_Report/q2/mat
+ch1_5.png (PNG copy)>]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/1.jpg, 
+id=79, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/1.
+jpg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/1.j
+pg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/giraffe/1.jpg used on input line 382.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/2.jpg, 
+id=80, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/2.
+jpg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/2.j
+pg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/giraffe/2.jpg used on input line 383.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/3.jpg, 
+id=81, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/3.
+jpg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/3.j
+pg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/giraffe/3.jpg used on input line 384.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/4.jpg, 
+id=82, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/4.
+jpg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/4.j
+pg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/giraffe/4.jpg used on input line 385.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/5.jpg, 
+id=83, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/5.
+jpg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/5.j
+pg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/giraffe/5.jpg used on input line 386.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/1.jpg, i
+d=84, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/1.j
+pg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/1.jp
+g>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/bottle/1.jpg used on input line 388.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/2.jpg, i
+d=85, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/2.j
+pg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/2.jp
+g>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/bottle/2.jpg used on input line 389.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/3.jpg, i
+d=86, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/3.j
+pg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/3.jp
+g>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/bottle/3.jpg used on input line 390.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/4.jpg, i
+d=87, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/4.j
+pg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/4.jp
+g>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/bottle/4.jpg used on input line 391.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/5.jpg, i
+d=88, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/5.j
+pg Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/5.jp
+g>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/bottle/5.jpg used on input line 392.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/1.jpg, id=8
+9, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/1.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/1.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cat/1.jpg used on input line 394.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/2.jpg, id=9
+0, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/2.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/2.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cat/2.jpg used on input line 395.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/3.jpg, id=9
+1, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/3.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/3.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cat/3.jpg used on input line 396.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/4.jpg, id=9
+2, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/4.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/4.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cat/4.jpg used on input line 397.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/5.jpg, id=9
+3, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/5.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/5.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cat/5.jpg used on input line 398.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/1.jpg, id=
+94, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/1.jpg
+ Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/1.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/book/1.jpg used on input line 400.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/2.jpg, id=
+95, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/2.jpg
+ Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/2.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/book/2.jpg used on input line 401.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/3.jpg, id=
+96, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/3.jpg
+ Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/3.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/book/3.jpg used on input line 402.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/4.jpg, id=
+97, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/4.jpg
+ Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/4.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/book/4.jpg used on input line 403.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/5.jpg, id=
+98, 301.125pt x 401.5pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/5.jpg
+ Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/book/5.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/book/5.jpg used on input line 404.
+(pdftex.def)             Requested size: 73.97614pt x 78.24623pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/1.jpg, id=9
+9, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/1.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/1.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cup/1.jpg used on input line 406.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/2.jpg, id=1
+00, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/2.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/2.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cup/2.jpg used on input line 407.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/3.jpg, id=1
+01, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/3.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/3.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cup/3.jpg used on input line 408.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/4.jpg, id=1
+02, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/4.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/4.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cup/4.jpg used on input line 409.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/5.jpg, id=1
+03, 401.5pt x 301.125pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/5.jpg 
+Graphic file (type jpg)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cup/5.jpg>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cup/5.jpg used on input line 410.
+(pdftex.def)             Requested size: 73.97614pt x 78.24469pt.
+
+[15
+
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/1.jpg>
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/2.jpg>
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/3.jpg>
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/4.jpg>
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/giraffe/5.jpg>
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/1.jpg> 
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/2.jpg> <
+/home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/3.jpg> </
+home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/4.jpg> </h
+ome/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/bottle/5.jpg> </ho
+me/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/1.jpg> </home/s
+hikhar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/2.jpg> </home/shikh
+ar/Documents/PycharmProjects/Assignment-1/Images/q3/cat/3.jpg> </home/shikhar/D
+ocuments/PycharmProjects/Assignment-1/Images/q3/cat/4.jpg> </home/shikhar/Docum
+ents/PycharmProjects/Assignment-1/Images/q3/cat/5.jpg> </home/shikhar/Documents
+/PycharmProjects/Assignment-1/Images/q3/book/1.jpg> </home/shikhar/Documents/Py
+charmProjects/Assignment-1/Images/q3/book/2.jpg> </home/shikhar/Documents/Pycha
+rmProjects/Assignment-1/Images/q3/book/3.jpg> </home/shikhar/Documents/PycharmP
+rojects/Assignment-1/Images/q3/book/4.jpg> </home/shikhar/Documents/PycharmProj
+ects/Assignment-1/Images/q3/book/5.jpg> </home/shikhar/Documents/PycharmProject
+s/Assignment-1/Images/q3/cup/1.jpg> </home/shikhar/Documents/PycharmProjects/As
+signment-1/Images/q3/cup/2.jpg> </home/shikhar/Documents/PycharmProjects/Assign
+ment-1/Images/q3/cup/3.jpg> </home/shikhar/Documents/PycharmProjects/Assignment
+-1/Images/q3/cup/4.jpg> </home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/cup/5.jpg>]
+</home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/trans.png, id=1
+07, 484.81125pt x 648.4225pt>
+File: /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/trans.png 
+Graphic file (type png)
+
+<use /home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/trans.png>
+Package pdftex.def Info: /home/shikhar/Documents/PycharmProjects/Assignment-1/I
+mages/q3/trans.png used on input line 421.
+(pdftex.def)             Requested size: 242.40503pt x 324.21045pt.
+
+[16
+
+ </home/shikhar/Documents/PycharmProjects/Assignment-1/Images/q3/trans.png>] [1
+7
+
+] 
+AED: lastpage setting LastPage
+[18] (./aip_a1.aux) ) 
+Here is how much of TeX's memory you used:
+ 5654 strings out of 493029
+ 95242 string characters out of 6136235
+ 261190 words of memory out of 5000000
+ 9092 multiletter control sequences out of 15000+600000
+ 11740 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,11n,43p,561b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb>
+Output written on aip_a1.pdf (18 pages, 6581621 bytes).
+PDF statistics:
+ 156 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
+

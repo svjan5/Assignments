@@ -1,0 +1,6 @@
+For running code:
+
+python q{1,2,3}.py
+example: python q1.py
+
+NOTE: The current directory should be set as this directory (where python files are present).

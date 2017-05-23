@@ -1,0 +1,100 @@
+.................................................
+Elapsed time is 854.626057 seconds.
+Initalization: SVD
+Tau: 1000.000000, MaxIters: 50, Frobenius: 46.498660 
+sparsity W: 5.518343e+01, H: 3.475056e+01
+Topic_mat = 
+    'mr'            'film'        'said'       'game'       'people'    
+    'said'          'best'        'growth'     'england'    'mobile'    
+    'labour'        'awards'      'market'     'win'        'said'      
+    'election'      'award'       'economy'    'said'       'technology'
+    'blair'         'music'       'year'       'cup'        'users'     
+    'government'    'band'        'company'    'club'       'software'  
+    'party'         'star'        'bank'       'match'      'music'     
+    'brown'         'album'       'sales'      'team'       'digital'   
+    'minister'      'festival'    'oil'        'injury'     'computer'  
+    'people'        'actor'       'firm'       'players'    'games'     
+.........................................>> 
+.................................................
+Elapsed time is 802.679410 seconds.
+Initalization: SVD
+Tau: 1.000000, MaxIters: 50, Frobenius: 45.942857 
+sparsity W: 5.435472e+01, H: 5.319551e+01
+Topic_mat = 
+    'mr'            'film'      'said'       'england'    'people'    
+    'said'          'best'      'growth'     'game'       'mobile'    
+    'labour'        'awards'    'economy'    'win'        'said'      
+    'election'      'award'     'bank'       'said'       'technology'
+    'blair'         'music'     'market'     'club'       'software'  
+    'government'    'band'      'company'    'cup'        'users'     
+    'party'         'star'      'year'       'match'      'digital'   
+    'brown'         'year'      'sales'      'team'       'games'     
+    'minister'      'said'      'oil'        'injury'     'phone'     
+    'people'        'album'     'china'      'players'    'music'     
+.................................................
+Elapsed time is 790.877505 seconds.
+Initalization: SVD
+Tau: 0.001000, MaxIters: 50, Frobenius: 45.942894 
+sparsity W: 5.432496e+01, H: 5.321348e+01
+Topic_mat = 
+    'mr'            'film'      'said'       'england'    'people'    
+    'said'          'best'      'growth'     'game'       'mobile'    
+    'labour'        'awards'    'economy'    'win'        'said'      
+    'election'      'award'     'bank'       'said'       'technology'
+    'blair'         'music'     'market'     'club'       'software'  
+    'government'    'band'      'company'    'cup'        'users'     
+    'party'         'star'      'year'       'match'      'digital'   
+    'brown'         'year'      'sales'      'team'       'games'     
+    'minister'      'said'      'oil'        'injury'     'phone'     
+    'people'        'album'     'china'      'players'    'music'     
+
+
+-----------
+.................................................
+Elapsed time is 791.284344 seconds.
+Initalization: Random
+Tau: 1.000000, MaxIters: 50, Frobenius: 46.051890 
+sparsity W: 5.485149e+01, H: 4.255281e+01
+Topic_mat = 
+    'music'         'england'    'said'       'film'      'mr'        
+    'said'          'game'       'growth'     'best'      'said'      
+    'people'        'team'       'economy'    'awards'    'labour'    
+    'users'         'wales'      'market'     'award'     'election'  
+    'software'      'ireland'    'year'       'won'       'blair'     
+    'games'         'said'       'bank'       'said'      'party'     
+    'band'          'players'    'company'    'actor'     'government'
+    'online'        'injury'     'sales'      'year'      'people'    
+    'technology'    'chelsea'    'oil'        'oscar'     'brown'     
+    'microsoft'     'rugby'      'china'      'star'      'minister'  
+.................................................
+Elapsed time is 790.547622 seconds.
+Initalization: Random
+Tau: 0.001000, MaxIters: 50, Frobenius: 46.029094 
+sparsity W: 5.577863e+01, H: 4.247191e+01
+Topic_mat = 
+    'england'    'mr'            'mobile'        'film'        'said'    
+    'game'       'said'          'people'        'best'        'growth'  
+    'win'        'government'    'music'         'awards'      'sales'   
+    'cup'        'labour'        'digital'       'award'       'economy' 
+    'said'       'election'      'phone'         'band'        'year'    
+    'club'       'blair'         'technology'    'said'        '2004'    
+    'match'      'party'         'said'          'year'        'bank'    
+    'team'       'brown'         'games'         'star'        'prices'  
+    'wales'      'minister'      'tv'            'album'       'market'  
+    'injury'     'tax'           'broadband'     'festival'    'economic'
+
+Elapsed time is 800.318328 seconds.
+Initalization: Random
+Tau: 1000.000000, MaxIters: 50, Frobenius: 46.516026 
+sparsity W: 5.343101e+01, H: 2.914157e+01   
+Topic_mat = 
+    'said'          'game'       'mr'            'film'      'mobile'    
+    'economy'       'england'    'said'          'best'      'people'    
+    'growth'        'win'        'labour'        'awards'    'said'      
+    'government'    'said'       'blair'         'band'      'technology'
+    'mr'            'cup'        'party'         'music'     'music'     
+    'year'          'play'       'election'      'award'     'digital'   
+    'bank'          'match'      'government'    'album'     'users'     
+    'economic'      'team'       'people'        'said'      'software'  
+    'oil'           'club'       'howard'        'star'      'phone'     
+    'market'        'players'    'minister'      'actor'     'net'       

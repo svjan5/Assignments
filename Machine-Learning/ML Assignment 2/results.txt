@@ -1,0 +1,90 @@
+
+0.01 & 0.0001  & 0.0002  &  0.0003  &  0.0002   & 0.0002 \\ \hline
+1 & 0.0001  & 0.0002  &  0.0001  &  0.0001   & 0.0002 \\ \hline
+100 & 2.8007  & 0.7183  &  0.0028  &  0.0125   & 0.0149 \\ \hline
+
+
+\begin{table}[h]
+	\begin{center}
+		\begin{tabular}{||c||c c c c c||} 
+			\hline
+			C/Folds & Fold 1 &  Fold 2 &  Fold 3 & Fold 4 & Fold 5 \\ [0.5ex] 
+			\hline\hline
+			0.01 & 0.0001  &  0.0002   & 0.0003  &  0.0002  &  0.0002 \\ \hline
+			1 & 0.0001  &  0.0002   & 0.0001  &  0.0001  &  0.0002 \\ \hline
+			100 & 2.7988  &  0.7198   & 0.0028  &  0.0126  &  0.0147 \\ \hline
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+\textbf{Average cross-validation training and test error}
+\begin{table}[h]
+	\begin{center}
+		\begin{tabular}{||c c c||} 
+			\hline
+			C & Training Error & Test Error \\ [0.5ex] 
+			\hline\hline
+			0.01 & 0.1686 & 0.1168 \\ \hline
+			1 & 1.2092 & 1.0008 \\ \hline
+			100 & 0.3651 & 0.3517 \\ \hline
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+
+
+
+full_train_error =
+   1.0e+03 *
+    
+    
+    
+full_test_error =
+   1.0e+03 *
+    
+    
+    
+eps
+full_train_error =
+  174.2503
+  249.3542
+  251.6181
+full_test_error =
+  123.9148
+  219.8091
+  222.5110
+
+tol = 0
+full_train_error =
+  174.2503
+  249.3542
+  251.6181
+full_test_error =
+  123.9148
+  219.8091
+  222.5110
+
+tol = 0.001;
+full_train_error =
+   1.0e+04 *
+    147.0
+    111.0
+    282.1
+full_test_error =
+   1.0e+04 *
+    0.0088
+    0.0045
+    1.3187
+
+tol = 0.005;
+full_train_error =
+   1.0e+04 *
+       NaN
+    0.0111
+    1.2821
+full_test_error =
+   1.0e+04 *
+       NaN
+    0.0045
+    1.3187

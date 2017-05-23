@@ -1,0 +1,98 @@
+...................................................................................................
+Elapsed time is 0.933610 seconds.
+Initalization: SVD
+Tau: 1000.000000, MaxIters: 100, Frobenius: 47.169906 
+sparsity W: 100, H: 100
+Topic_mat = 
+    '00'       '00'       '00'       '00'       '00'   
+    '000'      '000'      '000'      '000'      '000'  
+    '000m'     '000m'     '000m'     '000m'     '000m' 
+    '000th'    '000th'    '000th'    '000th'    '000th'
+    '007'      '007'      '007'      '007'      '007'  
+    '01'       '01'       '01'       '01'       '01'   
+    '0100'     '0100'     '0100'     '0100'     '0100' 
+    '011'      '011'      '011'      '011'      '011'  
+    '0130'     '0130'     '0130'     '0130'     '0130' 
+    '02'       '02'       '02'       '02'       '02'   
+...................................................................................................
+Elapsed time is 0.840645 seconds.
+Initalization: SVD
+Tau: 1.000000, MaxIters: 100, Frobenius: 47.169906 
+sparsity W: 100, H: 100
+Topic_mat = 
+    '00'       '00'       '00'       '00'       '00'   
+    '000'      '000'      '000'      '000'      '000'  
+    '000m'     '000m'     '000m'     '000m'     '000m' 
+    '000th'    '000th'    '000th'    '000th'    '000th'
+    '007'      '007'      '007'      '007'      '007'  
+    '01'       '01'       '01'       '01'       '01'   
+    '0100'     '0100'     '0100'     '0100'     '0100' 
+    '011'      '011'      '011'      '011'      '011'  
+    '0130'     '0130'     '0130'     '0130'     '0130' 
+    '02'       '02'       '02'       '02'       '02'   
+...................................................................................................
+Elapsed time is 0.875939 seconds.
+Initalization: SVD
+Tau: 0.001000, MaxIters: 100, Frobenius: 45.782259 
+sparsity W: 4.416299e+01, H: 2.632809e+01
+Topic_mat = 
+    'mr'            'england'    'growth'      'film'        'mobile'    
+    'labour'        'game'       'economy'     'best'        'people'    
+    'blair'         'win'        'said'        'awards'      'music'     
+    'election'      'wales'      'bank'        'award'       'said'      
+    'brown'         'ireland'    'year'        'actor'       'digital'   
+    'party'         'cup'        'sales'       'oscar'       'technology'
+    'said'          'said'       'economic'    'actress'     'phone'     
+    'government'    'team'       'oil'         'festival'    'users'     
+    'howard'        'play'       'prices'      'films'       'broadband' 
+    'minister'      'players'    '2004'        'won'         'software'  
+
+.................................................
+Elapsed time is 0.328430 seconds.
+Initalization: Random
+Tau: 1000.000000, MaxIters: 50, Frobenius: 47.169906 
+sparsity W: 100, H: 100
+Topic_mat = 
+    '00'       '00'       '00'       '00'       '00'   
+    '000'      '000'      '000'      '000'      '000'  
+    '000m'     '000m'     '000m'     '000m'     '000m' 
+    '000th'    '000th'    '000th'    '000th'    '000th'
+    '007'      '007'      '007'      '007'      '007'  
+    '01'       '01'       '01'       '01'       '01'   
+    '0100'     '0100'     '0100'     '0100'     '0100' 
+    '011'      '011'      '011'      '011'      '011'  
+    '0130'     '0130'     '0130'     '0130'     '0130' 
+    '02'       '02'       '02'       '02'       '02'   
+.................................................
+Elapsed time is 0.347211 seconds.
+Initalization: Random
+Tau: 1.000000, MaxIters: 50, Frobenius: 47.169906 
+sparsity W: 100, H: 100
+Topic_mat = 
+    '00'       '00'       '00'       '00'       '00'   
+    '000'      '000'      '000'      '000'      '000'  
+    '000m'     '000m'     '000m'     '000m'     '000m' 
+    '000th'    '000th'    '000th'    '000th'    '000th'
+    '007'      '007'      '007'      '007'      '007'  
+    '01'       '01'       '01'       '01'       '01'   
+    '0100'     '0100'     '0100'     '0100'     '0100' 
+    '011'      '011'      '011'      '011'      '011'  
+    '0130'     '0130'     '0130'     '0130'     '0130' 
+    '02'       '02'       '02'       '02'       '02'   
+.................................................
+Elapsed time is 0.330639 seconds.
+Initalization: Random
+Tau: 0.001000, MaxIters: 50, Frobenius: 45.822389 
+sparsity W: 4.159675e+01, H: 1.844494e+01
+Topic_mat = 
+    'england'    'mr'            'film'        'mobile'        'yukos'     
+    'game'       'labour'        'best'        'people'        'said'      
+    'win'        'election'      'awards'      'said'          'oil'       
+    'wales'      'blair'         'award'       'music'         'company'   
+    'ireland'    'brown'         'actor'       'digital'       'government'
+    'cup'        'party'         'oscar'       'technology'    'china'     
+    'said'       'said'          'actress'     'phone'         'firm'      
+    'team'       'howard'        'festival'    'broadband'     'bank'      
+    'play'       'chancellor'    'films'       'users'         'russian'   
+    'players'    'government'    'won'         'net'           'court'     
+>> 
